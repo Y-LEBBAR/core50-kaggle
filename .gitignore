@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Data (DO NOT PUSH DATA)
+data/
+*.csv
+
+# Models
+*.pth
+
+# VS Code
+.vscode/
